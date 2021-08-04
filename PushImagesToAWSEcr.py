@@ -10,6 +10,8 @@ import logging
 import os
 from botocore.exceptions import ProfileNotFound
 
+#This is a Python script used to push docker images to AWS Ecr.
+
 
 def main(verbose=False):
 
